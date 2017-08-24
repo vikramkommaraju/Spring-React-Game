@@ -1,4 +1,4 @@
-package spring.react.starter.controller;
+package spring.react.github.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
