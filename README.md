@@ -1,2 +1,3 @@
 # Spring-React-Github
-A simple app to lookup Github user profiles 
+ 
+![Alt text](Profiles.png?raw=true "A simple app to lookup Github user profiles")
