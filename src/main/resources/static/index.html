@@ -2,18 +2,24 @@
 <html xmlns:th="http://www.thymeleaf.org">
 <head lang="en">
     <meta charset="UTF-8"/>
-    <title>Github Lookup</title>
+    <title>Play Nine</title>
     <link rel="stylesheet" href="/main.css" />
-</head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>	
+	</head>
 <body>
 
-	<div id="root"
-		style="display: inline-block; position: fixed;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);">
-	</div>
-
+    <div class="container">
+    		<div class="row"><br /> <br /></div>
+	    <div class="row"><br /> <br /></div>
+	    <div class="row"><br /> <br /></div>
+	    <div class="row">
+		    	<div class="col-md-3 box"></div>
+		    	<div class="col-md-6 box" id='root'></div>
+		    	<div class="col-md-3 box"></div>    
+	    </div>
+    </div>
+	
 	<script src="built/bundle.js"></script>
 
 </body>

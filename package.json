@@ -22,8 +22,11 @@
   "dependencies": {
     "axios": "^0.16.2",
     "babel-cli": "^6.26.0",
+    "bootstrap": "^3.3.7",
+    "lodash": "^4.17.4",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
+    "underscore": "^1.8.3",
     "webpack": "^1.12.2"
   },
   "scripts": {
