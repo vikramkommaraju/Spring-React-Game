@@ -1,3 +1,3 @@
-# Spring-React-Github
- A simple app to lookup Github profiles with usernames
-![Alt text](Profiles.png?raw=true "A simple app to lookup Github user profiles")
+# Spring-React-Game
+ A simple game implemented using React
+![Alt text](screenshot.png?raw=true "A simple game implemented using React.")
